@@ -33,7 +33,7 @@ function CharacterList() {
 
 
   return (
-    <div className='container bg-danger'>
+    <div className='container'>
 
         <NavPage page={page} setPage={setPage}/>
         {
